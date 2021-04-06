@@ -1,0 +1,2 @@
+# sideseaproject
+This is the test project I completed for Side Sea. I created just a basic footer.php and header.php file, and index.php with the main content. For the header and content, I used pre-made components from Foundations. I have used Bootstrap in the past. I created dynamic content in the header and footer areas using php bloginfo and date. I didn't put much into styling since I was using the premade components available on Foundations. Hopefully I understood the directions correctly. I just created my own theme file instead of using / editing the sidesea theme. 
